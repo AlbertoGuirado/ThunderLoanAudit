@@ -53,7 +53,7 @@ We are planning to upgrade from the current `ThunderLoan` contract to the `Thund
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/6-thunder-loan-audit
+git clone https://github.com/AlbertoGuirado/ThunderLoanAudit
 cd 6-thunder-loan-audit
 make 
 ```
@@ -80,7 +80,7 @@ forge coverage --report debug
 
 # Audit Scope Details
 
-- Commit Hash: 8803f851f6b37e99eab2e94b4690c8b70e26b3f6
+- Commit Hash: 16f575056ecef4d7a1e0d7adaa31f3427d2472ba
 - In Scope:
 ```
 #-- interfaces
